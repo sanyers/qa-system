@@ -1,0 +1,1 @@
+export default [{typeName:'old',typeList:[{q:'vue 的生命周期钩子',a:import(/* webpackChunkName: "old-data" */ './src/old/1.md')},{q:'组件中 data 为什么是一个函数',a:import(/* webpackChunkName: "old-data" */ './src/old/2.md')},{q:'vue的动态组件，异步组件',a:import(/* webpackChunkName: "old-data" */ './src/old/3.md')},]},]

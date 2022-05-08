@@ -1,0 +1,1 @@
+export default [{typeName:'old',typeList:[{q:'简述一下你对 HTML 语义化的理解？',a:import(/* webpackChunkName: "old-data" */ './src/old/1.md')},{q:'标签上 title 与 alt 属性的区别是什么？',a:import(/* webpackChunkName: "old-data" */ './src/old/2.md')},]},]

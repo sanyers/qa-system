@@ -1,0 +1,1 @@
+export default [{typeName:'new',typeList:[{q:'聊一聊csrf以及防御方法',a:import(/* webpackChunkName: "new-data" */ './src/new/1.md')},]},]

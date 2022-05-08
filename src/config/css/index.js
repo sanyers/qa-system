@@ -1,0 +1,1 @@
+export default [{typeName:'old',typeList:[{q:'介绍一下 CSS 的盒子模型？',a:import(/* webpackChunkName: "old-data" */ './src/old/1.md')},{q:'css 选择器优先级？',a:import(/* webpackChunkName: "old-data" */ './src/old/2.md')},{q:'scoped原理',a:import(/* webpackChunkName: "old-data" */ './src/old/3.md')},]},]
