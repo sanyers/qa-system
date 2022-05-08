@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e2874"],{"7ea1":function(e,n,a){"use strict";a.r(n);a("d3b7"),a("3ca3"),a("ddb0");n["default"]=[{typeName:"new",typeList:[{q:"聊一聊webpack",a:a.e("new-data").then(a.bind(null,"9def"))}]}]}}]);
