@@ -1,1 +1,1 @@
-export default [{typeName:'new',typeList:[{q:'聊一聊webpack',a:import(/* webpackChunkName: "new-data" */ './src/new/1.md')},]},]
+export default [{typeName:'new',typeList:[{q:'聊一聊webpack',a:import(/* webpackChunkName: "new-data" */ './src/new/1.md')},{q:'webpack如何配置',a:import(/* webpackChunkName: "new-data" */ './src/new/2.md')},]},]

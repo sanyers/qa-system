@@ -30,7 +30,7 @@ export default {
   },
   data() {
     return {
-      categoryValue: '',
+      categoryValue: 'javascript',
       categoryList: web,
       isCategory: true,
     };
