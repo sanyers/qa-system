@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d07b9"],{"67bd":function(d,t,n){"use strict";n.r(t);n("d3b7"),n("3ca3"),n("ddb0");t["default"]=[{typeName:"old",typeList:[{q:"简述一下你对 HTML 语义化的理解？",a:n.e("old-data").then(n.bind(null,"341c"))},{q:"标签上 title 与 alt 属性的区别是什么？",a:n.e("old-data").then(n.bind(null,"504c"))}]}]}}]);

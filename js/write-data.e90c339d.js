@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["write-data"],{"1a2a":function(n,a,t){"use strict";t.r(a),a["default"]="# 实现async await\r\n\r\n收集中..."},"1f13":function(n,a,t){"use strict";t.r(a),a["default"]="# 实现promise.all\r\n\r\n收集中..."}}]);
