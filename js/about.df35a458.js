@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{"754b":function(t,s,n){"use strict";n.r(s);var u=function(){var t=this;t._self._c;return t._m(0)},i=[function(){var t=this,s=t._self._c;return s("div",{staticClass:"about"},[s("h1",[t._v("This is QA System, by v0.1")])])}],a=n("2877"),e={},c=Object(a["a"])(e,u,i,!1,null,null,null);s["default"]=c.exports}}]);
