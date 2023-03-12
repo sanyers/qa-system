@@ -28,6 +28,14 @@ module.exports = {
       chunks: ['chunk-vendors', 'chunk-common', 'index'],
       chunksSortMode: 'manual',
     },
+    '404': {
+      entry: 'src/main.js',
+      template: 'public/404.html',
+      filename: '404.html',
+      title: '问答系统',
+      chunks: ['chunk-vendors', 'chunk-common', '404'],
+      chunksSortMode: 'manual',
+    },
   },
   productionSourceMap: false,
   configureWebpack: config => {

@@ -167,7 +167,7 @@ export default {
       }
     }
   }
-  @media screen and(max-width: 500px) {
+  @media screen and (max-width: 500px) {
     .qa-navs {
       display: none;
     }

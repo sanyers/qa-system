@@ -1,1 +1,1 @@
-export default [{typeName:'new',typeList:[{q:'二叉树以及实现一个方法判断二叉树是否对称',a:import(/* webpackChunkName: "new-data" */ './src/new/1.md')},]},]
+export default [{typeName:'new',typeList:[{q:'二叉树以及实现一个方法判断二叉树是否对称',a:import(/* webpackChunkName: "new-data" */ './src/new/1.md')},{q:'假设你正在爬楼梯。需要 n 阶你才能到达楼顶。',a:import(/* webpackChunkName: "new-data" */ './src/new/2.md')},]},]
